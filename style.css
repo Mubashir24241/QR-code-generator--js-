@@ -52,7 +52,7 @@ html {
 }
 
 body {
-    background: linear-gradient(to right, #67c1c1, #c53e55);
+    background: linear-gradient(to right, #67c1c1, #ffffff);
     color: white;
     font-family: var(--bodyFontFamily), var(--bodyFontFamilyFallback);
     font-size: var(--bodyFontSize);
