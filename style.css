@@ -1,12 +1,15 @@
 :root {
-    --baseColor: #606468;
+    --baseColor: #4cc5a9;
 }
 
 .grid {
+    background-color: #4b7782;
     inline-size: 90%;
     margin-inline: auto;
     max-inline-size: 20rem;
     display: grid;
+    border: 2px solid #333;
+  padding: 20px;
 }
 
 .hidden {
@@ -49,7 +52,7 @@ html {
 }
 
 body {
-    background-color: #ad7224;
+    background: linear-gradient(to right, #67c1c1, #c53e55);
     color: white;
     font-family: var(--bodyFontFamily), var(--bodyFontFamilyFallback);
     font-size: var(--bodyFontSize);
