@@ -1,6 +1,6 @@
 # QR Code Generator
 
-This is a simple QR code generator built with HTML, CSS, and JavaScript. It allows you to generate QR codes for different types of data, such as URLs, text messages, and more.
+This is a simple QR code generatorr built with HTML, CSS, and JavaScript. It allows you to generate QR codes for different types of data, such as URLs, text messages, and more.
 
 ## How to Use
 
